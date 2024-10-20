@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 70px;
+    background-color: black;
+}
+
+header ul {
+    display: flex;
+}
+
+.logo {
+    flex: 3;
+    background-color: white;
+}
+
+header nav {
+    flex: 7
+}
+
+.red {
+    height: 405px;
+    width: 855px;
+    background-color: red;
+    appearance: 30%;
+}
+
+.orange {
+    height: 405px;
+    width: 855px;
+    background-color: orangered;
+    appearance: 30%;
+}
+
+.yellow {
+    height: 405px;
+    width: 855px;
+    background-color: yellow;
+    appearance: 30%;
+}
+
+.green {
+    height: 405px;
+    width: 855px;
+    background-color: green;
+    appearance: 30%;
+}
+
+.blue {
+    height: 405px;
+    width: 855px;
+    background-color: rgb(50, 146, 255);
+    appearance: 30%;
+}
+
+.purple {
+    height: 405px;
+    width: 855px;
+    background-color: purple;
+}
+
+div {
+    height: 79px;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 5px 30px;
+    border-radius: 10px;
+}
+
+.reda {
+    background-color: blue;
+    color: red;
+}
+
+.yellowa {
+    background-color: purple;
+    color: yellow;
+}
+
+.greena {
+    background-color: palevioletred;
+    color: green;
+}
+
+.bluea {
+    background-color: orangered;
+    color: rgb(50, 146, 255);
+}
+
+.purplea {
+    background-color: yellow;
+    color: purple;
+}
+
+.phone {
+    color: white;
+    background-color: black;
+}
